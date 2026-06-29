@@ -1,2 +1,2 @@
 # new_project
-author vansh
+author - vansh
